@@ -1,0 +1,20 @@
+L.E TUNING — LEGAL PAGE SETUP NOTES
+Prepared: 25 August 2026
+
+Included files
+- privacy.html — public privacy policy and UK GDPR transparency information
+- terms.html — website, booking and vehicle-service terms
+- gdpr.html — customer data-rights request centre
+
+Before the final commercial launch
+1. Confirm the proprietor's full legal name or registered company name.
+2. Confirm the full postal/trading address shown on booking confirmations and invoices.
+3. Add a dedicated privacy/contact email if one is available.
+4. Confirm that the stated retention periods match the business's real deletion process.
+5. List the actual payment, hosting, file-service and communication providers used.
+6. If analytics, advertising pixels or non-essential cookies are added, install compliant consent controls and update the privacy policy before activation.
+7. Use a written request/acknowledgement when a consumer asks for work to begin during the 14-day cancellation period.
+8. Keep the road-use and emissions wording aligned with the services actually offered. Do not advertise DPF removal or emissions defeat for road vehicles.
+9. Have a UK solicitor review the final commercial version once the legal entity, address, booking, deposit and warranty model are confirmed.
+
+These pages are tailored operational drafts. They are not a substitute for legal advice.
